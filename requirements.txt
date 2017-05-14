@@ -1,0 +1,10 @@
+Flask
+Flask-Session
+Flask-Caching
+Flask-PyMongo
+pymongo
+passlib
+bcrypt
+six
+itsdangerous
+requests
